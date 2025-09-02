@@ -13,6 +13,7 @@ class DownSample1D(hk.Module):
     """
     1D-UNET downsampling block.
     """
+    
 
     def __init__(
         self,
